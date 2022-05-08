@@ -2,6 +2,6 @@
 
 To view the OmniGrub Extension, please visit: https://github.com/Kcrosas/PROJECTS-omniGrubExtension-FSA
 
-*A cloned version of the original collaborated project due to private view settings. 
+
 ### Original collab. location: https://github.com/Nick-qsv/OmniGrub
-### Forked version located on this account: Contact me for access 
+*A cloned version of the original collaborated project due to original organization private view settings. A forked version is located on this account, please contact me for access. 
